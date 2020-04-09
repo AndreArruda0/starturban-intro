@@ -11,7 +11,7 @@ function App() {
         <h3>Sobre a StartUrban</h3>
       </div>
       <div className="bodyBanner">
-        aaaaaa
+        aaaaaaa
       </div>
     </div>
     <div className="body">
